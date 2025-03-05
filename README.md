@@ -2,7 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18534242&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
-Timely delivery** is crucial in software project management for several reasons:
+Timely delivery is crucial in software project management for several reasons:
 
 - **Customer Satisfaction**: Delivering on time builds trust and satisfaction among clients and stakeholders.
 - **Competitive Advantage**: Meeting deadlines can provide a competitive edge in the market.
@@ -27,7 +27,7 @@ Timely delivery** is crucial in software project management for several reasons:
 - **Vendor Management**: Negotiate favorable terms with suppliers and monitor vendor performance.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-*Agile**:
+Agile:
 - **Advantages**:
   - Flexibility to adapt to changes.
   - Continuous delivery of small, incremental updates.
@@ -65,7 +65,7 @@ Agile** is more beneficial for projects requiring flexibility and frequent itera
 - Reduces the risk of defects and failures.
 - Enhances user satisfaction and trust.
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
-*Defining Project Scope**:
+Defining Project Scope:
 - Clearly outlines project objectives, deliverables, and boundaries.
 - Helps in managing stakeholder expectations and avoiding scope creep.
 
@@ -74,7 +74,7 @@ Agile** is more beneficial for projects requiring flexibility and frequent itera
 - Useful for organizing tasks, estimating costs, and assigning responsibilities.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
-*Benefits**:
+**Benefits**:
 - Provides a clear timeline for task completion.
 - Helps in resource allocation and management.
 - Facilitates tracking and monitoring of progress.
